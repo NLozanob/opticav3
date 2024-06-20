@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>The Parking Lot</title>
+    <title>Optica A+</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -831,9 +831,9 @@
 </head>
 
 <body class="antialiased ">
-    <div style="background-color: #45474B; " class="relative sm:flex sm:justify-center sm:items-center min-h-screen ">
+    <div style="background-color: #164863; " class="relative sm:flex sm:justify-center sm:items-center min-h-screen ">
         <div class="ne " style="align-content: center;">
-            <img src="{{asset('backend/dist/img/TPL.png')}}" style="width: 500px; height: auto; margin-left: 15%;" alt="">
+            <img src="{{asset('backend/dist/img/optica1.png')}}" style="width: 500px; height: auto; margin-left: 15%;" alt="">
             <div class="relative ">
                 @if (Route::has('login'))
                 <div class=" sm:top-0 sm:center-0 p-10 text-center z-10">

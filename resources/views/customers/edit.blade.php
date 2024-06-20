@@ -42,7 +42,7 @@
 										</div>
                                         <div class="form-group label-floating">
 											<label class="control-label">Telefono<strong style="color:red;">(*)</strong></label>
-											<input type="text" class="form-control" name="phone_number" placeholder="08000" autocomplete="off" value="{{ $customer->phone}}">
+											<input type="text" class="form-control" name="phone" placeholder="08000" autocomplete="off" value="{{ $customer->phone}}">
 										</div>
                                         <div class="form-group label-floating">
 											<label class="control-label">Correo<strong style="color:red;">(*)</strong></label>
